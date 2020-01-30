@@ -1,0 +1,39 @@
+body {
+  background-color: red;
+  font-family: verdana;
+  font-size: 14px;
+}
+
+h1 {
+  color:black;
+  text-align: center;
+}
+  
+ h2 {
+   color:black;
+   text-align: center;
+ }
+
+ h3{
+color: black;
+text-align: center;
+}
+
+h4{
+color: black;
+text-align: center;
+}
+h5{
+  color: black;
+  text-align: center;
+}
+h6{
+  color: black;
+  text-align: center;
+  font-size: 12px;  
+}
+h7{
+  text-align: center;
+  color: black;
+}
+
